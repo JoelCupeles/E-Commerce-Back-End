@@ -26,7 +26,7 @@ A command-line application that allows users to manage an e-commerce store's dat
 To use this application, create and configure a `.env` file with your database credentials. Run `npm run seed` to seed the database, and then `npm start` to start the server. Use a tool like Insomnia to send requests to the API endpoints.
 
 ## Demo link
-
+https://clipchamp.com/watch/o55clkhCWj9
 
 ## License
 
